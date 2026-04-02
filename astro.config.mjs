@@ -5,7 +5,7 @@ import sitemap from '@astrojs/sitemap';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://sheamckenziebc.github.io',
-  base: '/franziska-pottery',
+  base: '/Franzsika_Pottery',
   trailingSlash: 'always',
   integrations: [
     tailwind({
